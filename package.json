@@ -1,0 +1,6 @@
+{
+  "name": "hyperbeam-api",
+  "dependencies": {
+    "hyperbeam": "^2.0.0"
+  }
+}
